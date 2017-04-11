@@ -3,9 +3,15 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/bentley"
+            android:id="@+id/intro_pic"/>
+
         <pl.droidsonroids.gif.GifTextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="200px"
+        android:layout_height="200px"
         android:background="@drawable/dancingbanana"
         />
 
