@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BentleyCampusMap</string>
+    <string name="title_activity_maps">Welcome to Bentley</string>
+    <string name="title_activity_maps_map">Click on any pin to learn more about the Bentley campus!</string>
+</resources>
